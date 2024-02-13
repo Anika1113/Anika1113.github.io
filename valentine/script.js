@@ -59,13 +59,13 @@ window.addEventListener('DOMContentLoaded',function(){
             h1.innerHTML+= '<br> Ты серьезно?'
         }
         if(counter==3){
-            h1.innerHTML+= '<br> Карина, это не смешно'
+            h1.innerHTML+= '<br> Пашуля, это не смешно'
         }
         if(counter==5){
             h1.innerHTML+= '<br> Я обижусь 😢'
         }
         if(counter==7){
-            h1.innerHTML+= '<br> Карин, это капец'
+            h1.innerHTML+= '<br> Паша, это капец'
             document.documentElement.style.setProperty('--Pad','50px')
         }
         if(counter==9){
